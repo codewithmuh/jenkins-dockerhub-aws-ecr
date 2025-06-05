@@ -9,14 +9,6 @@ This project demonstrates a **Jenkins-based CI/CD pipeline** to:
 
 ---
 
-## 📁 Project Structure
-
-myapp/
-├── Dockerfile
-├── Jenkinsfile
-└── app/       # Your application code
-
-
 ---
 
 ## ✅ Prerequisites
